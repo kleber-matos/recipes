@@ -1,0 +1,39 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+  height: 100vh;
+  background-image: url("../../assets/img/fundo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.menu__logo {
+  font-size: 2.5rem;
+}
+
+.menu__list {
+  display: flex;
+  justify-content: space-between;
+  width: 30vw;
+}
+
+.menu__link {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.menu__link:hover {
+  border: black solid 3px;
+  padding: 1rem;
+}
+
+.menu__titulo {
+  position: absolute;
+  top: 40vh;
+  right: 37vw;
+  font-size: 6rem;
+  color: rgba(0, 0, 0, 0.645);
+}
