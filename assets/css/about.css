@@ -1,0 +1,35 @@
+.about {
+  display: flex;
+  width: 100vw;
+}
+
+.colher {
+  width: 50vw;
+}
+
+.about__pai {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about__filho {
+  width: 30vw;
+  height: 40%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.about__titulo {
+  padding-bottom: 0.5rem;
+}
+
+.about__description {
+  font-size: 1rem;
+  text-align: start;
+}
