@@ -1,0 +1,38 @@
+.subscribe {
+  background-color: #dfe4de;
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subscribe__box {
+  width: 40vw;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+button {
+  border: solid 2px black;
+  background-color: #dfe4de;
+  padding: 2px;
+  width: 80px;
+  font-weight: 400;
+  cursor: pointer;
+}
+input {
+  height: 35px;
+  width: 300px;
+  border: none;
+}
+.subscribe__titulo {
+  font-weight: 500;
+}
+
+.subscribe__titulo-sub {
+  font-weight: 300;
+}
