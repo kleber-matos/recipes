@@ -1,0 +1,19 @@
+.social {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f2f4f1;
+  height: 30vh;
+}
+
+.rede-social {
+  display: flex;
+  justify-content: space-between;
+  width: 15vw;
+}
+.social__p {
+  text-align: center;
+  background-color: #446061;
+  color: white;
+  padding: 1rem;
+}

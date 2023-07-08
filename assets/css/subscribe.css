@@ -1,7 +1,7 @@
 .subscribe {
   background-color: #dfe4de;
   height: 40vh;
-  width: 100vw;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
