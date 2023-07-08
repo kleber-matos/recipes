@@ -7,10 +7,3 @@ main {
   width: 50px;
   height: 4px;
 }
-
-main {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  align-items: center;
-}
